@@ -196,6 +196,3 @@ un auth: 60 request per hour
 personal token: testing personal projects, API implementations, etc
 OAuth: The user will login via OAuth in the project
 via APi you can create and update Issues PRs, Repos, Gists 
-
-
-
